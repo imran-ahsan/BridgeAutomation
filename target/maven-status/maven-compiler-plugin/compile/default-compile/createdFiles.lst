@@ -1,0 +1,4 @@
+com\bridge\pages\BridgeLoginPage.class
+BridgeTest\Com\Bridge\Test\BridgeBase.class
+BridgeTest\Com\Bridge\Test\Dummy.class
+com\bridge\pages\BridgeHomePage.class

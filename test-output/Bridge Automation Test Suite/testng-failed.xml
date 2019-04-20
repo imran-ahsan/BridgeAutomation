@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Bridge Automation Test Suite]">
+  <test name="Bridge Test Cases(failed)">
+    <classes>
+      <class name="BridgeTest.Com.Bridge.Test.BridgeLoginTest">
+        <methods>
+          <include name="loginPageTitleTest"/>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- BridgeTest.Com.Bridge.Test.BridgeLoginTest -->
+    </classes>
+  </test> <!-- Bridge Test Cases(failed) -->
+</suite> <!-- Failed suite [Bridge Automation Test Suite] -->
