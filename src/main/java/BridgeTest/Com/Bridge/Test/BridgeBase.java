@@ -36,7 +36,7 @@ public class BridgeBase {
 		if (browserName.equals("chrome")) {
 
 			System.setProperty("webdriver.chrome.driver","C:\\Users\\imran.ahsan1\\Downloads\\chromedriver_win32\\chromedriver.exe");
-			//System.setProperty("webdriver.chrome.driver", "C:\\Users\\imran.ahsan1\\Downloads\\chromedriver\\chromedriver.exe"); // old version driver
+			//System.setProperty("webdriver.chrome.driver", "C:\\Users\\imran.ahsan1\\Downloads\\chromedriver\\chromedriver.exe");  old version driver
 			
 			driver = new ChromeDriver(); 
 		} else if (browserName.equals("firefox")) {
